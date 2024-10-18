@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IRS Privacy Ethical Principles</title>
+</head>
+<body>
+    <h1>IRS Privacy Ethical Principles - Presentation Outline</h1>
+
+    <h2>Slide Structure and Content</h2>
+
+    <h3>Slide 1: Introduction to Privacy Ethical Principles in IRS</h3>
+    <ul>
+        <li><strong>Overview of Privacy Responsibilities:</strong></li>
+        <ul>
+            <li>Protect taxpayer information</li>
+            <li>Ensure compliance with federal privacy laws</li>
+            <li>Ethical use of technology (GPS, text messaging, etc.)</li>
+        </ul>
+    </ul>
+
+    <h3>Slide 2: GPS and Location Services - IRM 10.5.1.6.11.1</h3>
+    <ul>
+        <li><strong>Guidance on GPS Use:</strong></li>
+        <ul>
+            <li>GPS data usage must align with mission requirements</li>
+            <li>Only authorized personnel can access location data</li>
+            <li>Location data must be protected under privacy standards</li>
+        </ul>
+        <li><strong>Ethical Considerations:</strong></li>
+        <ul>
+            <li>Respect employee and taxpayer privacy</li>
+            <li>Avoid unnecessary tracking or data collection</li>
+        </ul>
+    </ul>
+
+    <h3>Slide 3: IRS Protocols for GPS - IRM 10.5.1.6.11.2</h3>
+    <ul>
+        <li><strong>Data Collection Guidelines:</strong></li>
+        <ul>
+            <li>Clear, documented purpose for using GPS</li>
+            <li>Data retention and destruction policies</li>
+            <li>Limitations on when and how location data can be collected</li>
+        </ul>
+        <li><strong>Best Practices:</strong></li>
+        <ul>
+            <li>Minimize the use of GPS where feasible</li>
+            <li>Regular audits of GPS data collection practices</li>
+        </ul>
+    </ul>
+
+    <h3>Slide 4: Text Messaging Protocols - IRM 10.5.1.6.9.6</h3>
+    <ul>
+        <li><strong>Text Messaging Guidelines:</strong></li>
+        <ul>
+            <li>Text messaging must comply with security protocols</li>
+            <li>Personal devices should not be used for official communications</li>
+            <li>Encryption must be applied to sensitive communications</li>
+        </ul>
+        <li><strong>Interim Guidance: PGLD 10-0424-0011:</strong></li>
+        <ul>
+            <li>Clarifies policies around texting and security</li>
+            <li>Temporary measures to secure taxpayer information</li>
+        </ul>
+    </ul>
+
+    <h3>Slide 5: Ethical and Privacy Impacts of Text Messaging</h3>
+    <ul>
+        <li><strong>Risks and Vulnerabilities:</strong></li>
+        <ul>
+            <li>Risk of data breaches through unsecured texting</li>
+            <li>Loss or theft of personal devices containing IRS communications</li>
+        </ul>
+        <li><strong>Privacy Safeguards:</strong></li>
+        <ul>
+            <li>Use approved communication channels</li>
+            <li>Train employees on secure texting practices</li>
+        </ul>
+    </ul>
+
+    <h2>Talking Points for Slides 2-5</h2>
+
+    <h3>Slide 2: GPS and Location Services - IRM 10.5.1.6.11.1</h3>
+    <ul>
+        <li><strong>Slide Text:</strong></li>
+        <ul>
+            <li>"GPS data: Useful, but a privilege, not a right."</li>
+            <li>"What are we tracking, and why?"</li>
+        </ul>
+        <li><strong>Talking Points:</strong></li>
+        <ul>
+            <li><strong>Why is GPS tracking necessary?</strong> Focus on mission-critical tasks, such as tracking IRS fleet vehicles or conducting field audits, where location services ensure safety and efficiency.</li>
+            <li><strong>How does this impact you?</strong> For most employees, GPS might never affect your day-to-day, but if you’re in a role where it’s necessary, be mindful of how your data is being used.</li>
+            <li><strong>Key takeaway:</strong> GPS tracking helps us do our jobs, but it’s not a free pass to surveil—there must always be a mission-based justification.</li>
+        </ul>
+    </ul>
+
+    <h3>Slide 3: IRS Protocols for GPS - IRM 10.5.1.6.11.2</h3>
+    <ul>
+        <li><strong>Slide Text:</strong></li>
+        <ul>
+            <li>"Just because we can collect data, doesn’t mean we should."</li>
+            <li>"Ethical GPS usage – when does ‘tracking’ go too far?"</li>
+        </ul>
+        <li><strong>Talking Points:</strong></li>
+        <ul>
+            <li><strong>Clear purpose:</strong> IRS isn’t Big Brother—GPS is for specific purposes, like asset management or high-risk audits. This ensures transparency in data collection.</li>
+            <li><strong>Minimizing risk:</strong> Collect only what’s needed and make sure data is securely stored and routinely deleted when no longer necessary.</li>
+            <li><strong>Practical application:</strong> Use real-world examples of when and why GPS was employed and how misuse could lead to privacy violations.</li>
+            <li><strong>Key takeaway:</strong> Always weigh the benefits of tracking against the potential privacy concerns for employees and taxpayers.</li>
+        </ul>
+    </ul>
+
+    <h3>Slide 4: Text Messaging Protocols - IRM 10.5.1.6.9.6</h3>
+    <ul>
+        <li><strong>Slide Text:</strong></li>
+        <ul>
+            <li>"Is texting ever private? Not when it’s work-related."</li>
+            <li>"Texting: Convenient, yes. Secure? Not always."</li>
+        </ul>
+        <li><strong>Talking Points:</strong></li>
+        <ul>
+            <li><strong>Convenience vs. security:</strong> Texting is fast and easy, but fast doesn’t always mean secure. Discuss how unsecured texting can leave sensitive data vulnerable.</li>
+            <li><strong>How this affects you:</strong> If you send a message containing taxpayer info over an insecure channel, that data could be intercepted. Even a misplaced phone can lead to breaches.</li>
+            <li><strong>Temporary guidance (PGLD 10-0424-0011):</strong> Explain how the interim guidance steps in to enforce texting through approved platforms and secure encryption protocols until permanent policies are rolled out.</li>
+            <li><strong>Key takeaway:</strong> Think before you text. Use approved channels to protect both your own data and taxpayer confidentiality.</li>
+        </ul>
+    </ul>
+
+    <h3>Slide 5: Ethical and Privacy Impacts of Text Messaging</h3>
+    <ul>
+        <li><strong>Slide Text:</strong></li>
+        <ul>
+            <li>"Every text is a potential risk."</li>
+            <li>"Keep it simple: Follow the rules, protect the data."</li>
+        </ul>
+        <li><strong>Talking Points:</strong></li>
+        <ul>
+            <li><strong>Risks of unsecured texting:</strong> Text messages are quick, but that makes them a prime target for hacking, phishing, or unintended leaks. One misplaced message could be costly.</li>
+            <li><strong>What safeguards should you use?</strong> Always choose approved platforms for work-related communication, and don’t let convenience lead to carelessness. If it’s official business, make sure it’s also officially secure.</li>
+            <li><strong>Practical tip:</strong> Suggest easy-to-follow methods for securing mobile communication, such as multi-factor authentication and regular device security checks.</li>
+            <li><strong>Key takeaway:</strong> Avoid “shortcut texting” with sensitive info—security starts with you.</li>
+        </ul>
+    </ul>
+</body>
+</html>
